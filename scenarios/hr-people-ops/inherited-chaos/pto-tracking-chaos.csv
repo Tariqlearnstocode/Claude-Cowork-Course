@@ -1,0 +1,67 @@
+Employee Name,Employee ID,Hire Date,PTO Policy,Annual Accrual,Balance (Kelly's Spreadsheet),Balance (Gusto),Balance (Employee's Count),Notes,Last Verified
+Chen Marcus,E001,2022-01-15,Founder (unlimited?),N/A,N/A,N/A,N/A,Founders take what they need - no tracking,Never
+Patel Priya,E002,2022-01-15,Founder (unlimited?),N/A,N/A,N/A,N/A,Founders take what they need - no tracking,Never
+Washington Aaliyah,E003,2022-03-01,Original (10 days),80,72,68,84,Discrepancy - Aaliyah says she has more. Gusto might not have early days right,Aug 2024
+Thompson James,E004,2022-04-15,Original (10 days),80,64,64,64,Matches!,Sep 2024
+Nguyen Kevin,E005,2022-06-01,Original (10 days),80,42,42,48,Kevin thinks he has more - maybe forgot some he took?,Sep 2024
+Robinson Tanya,E006,2022-08-15,Original (10 days),80,56,56,56,Matches,Sep 2024
+Garcia Miguel,E007,2022-09-01,Original (10 days),80,88,72,88,Gusto showing lower - possible data entry error when migrating systems,Aug 2024
+Williams Damon,E008,2022-10-01,Original (10 days),80,32,40,40,I had him lower - maybe didn't record a carryover right,Sep 2024
+Anderson Sarah,E009,2022-11-15,Original (10 days),80,24,24,32,Sarah thinks she has more. Vacation dispute last year?,Sep 2024
+Kim David,E010,2023-01-09,15 days (informal),120,96,96,96,Started after informal policy change,Oct 2024
+Jackson Brianna,E011,2023-02-15,15 days (informal),120,104,88,104,Gusto is wrong - I never fixed it,Never
+Peterson Michael,E012,2023-03-01,15 days (informal),120,72,72,72,Matches,Oct 2024
+Martinez Jessica,E013,2023-04-15,15 days (informal),120,80,80,88,Jessica might have used some that wasn't recorded,Oct 2024
+Brown Terrence,E014,2023-05-01,15 days (informal),120,96,96,96,Matches,Oct 2024
+Davis Cynthia,E015,2023-06-15,15 days (informal),120,112,112,120,Cynthia thinks she hasn't used any - she definitely has,Sep 2024
+Wilson Andre,E016,2023-07-01,15 days (informal),120,80,80,80,Matches,Oct 2024
+Moore Stephanie,E017,2023-08-15,15 days (informal),120,104,104,104,Matches,Oct 2024
+Taylor Brandon,E018,2023-09-01,15 days (informal),120,88,88,88,Matches,Oct 2024
+Harris Nicole,E019,2023-10-01,15 days (informal),120,72,64,72,Gusto shows less - remote employee tracking issue?,Sep 2024
+Clark Jason,E020,2023-11-15,15 days (informal),120,96,96,96,Matches,Oct 2024
+Lewis Keisha,E021,2024-01-02,15 days (verbally told),120,104,104,120,Keisha thinks she has more. Possible misunderstanding at hire,Oct 2024
+Walker Ryan,E022,2024-01-15,15 days (verbally told),120,96,96,96,Matches,Oct 2024
+Hall Brittany,E023,2024-02-01,15 days (verbally told),120,88,88,88,Matches,Oct 2024
+Young Christopher,E024,2024-02-15,15 days (verbally told),120,80,80,80,Matches,Oct 2024
+Kowalski David,E025,2024-03-01,20 days (negotiated),160,136,136,136,David negotiated extra PTO,Oct 2024
+King Jasmine,E026,2024-03-15,15 days (verbally told),120,96,96,96,Matches,Oct 2024
+Wright Tyler,E027,2024-04-01,15 days (verbally told),120,88,88,88,Matches,Oct 2024
+Scott Amanda,E028,2024-05-01,15 days (verbally told),120,96,96,96,Matches,Oct 2024
+Green Marcus,E029,2024-05-15,15 days (verbally told),120,112,112,112,Matches,Oct 2024
+Adams Destiny,E030,2024-06-01,15 days (verbally told),120,96,96,104,Destiny thinks she has more - check onboarding paperwork,Oct 2024
+Baker Derek,E031,2024-07-01,15 days (verbally told),120,88,88,88,Matches,Oct 2024
+Nelson Vanessa,E032,2024-08-01,15 days (verbally told),120,96,96,96,Matches,Nov 2024
+Mitchell Aaron,E033,2024-08-15,15 days (verbally told),120,104,104,104,Matches,Nov 2024
+Carter Lauren,E034,2024-09-01,15 days (verbally told),120,104,104,104,Matches,Nov 2024
+Phillips Jerome,E035,2024-09-15,15 days (verbally told),120,112,112,112,Matches,Nov 2024
+Campbell Mia,E036,2024-10-01,15 days (verbally told),120,112,112,112,Matches,Nov 2024
+Roberts Justin,E037,2024-10-15,15 days (verbally told),120,112,112,112,Matches,Nov 2024
+Turner Alexis,E038,2024-11-01,15 days (verbally told),120,120,120,120,New hire - full balance,Nov 2024
+Evans Marcus,E039,2024-11-15,15 days (verbally told),120,120,115,120,Gusto shows 115 for some reason,Nov 2024
+Collins Natasha,E040,2024-12-01,15 days (verbally told),120,120,120,120,New hire - full balance,Dec 2024
+Stewart Jordan,E041,2025-01-06,15 days (verbally told),120,120,120,120,New hire - full balance,Jan 2025
+Sanchez Isabella,E042,2025-01-15,15 days (verbally told),120,120,120,120,New hire - full balance,Jan 2025
+Morris Xavier,E043,2025-02-01,15 days (verbally told),120,120,120,120,New hire - full balance,Feb 2025
+Reed Aaliyah,E044,2025-02-15,15 days (verbally told),120,120,120,120,New hire - full balance,Feb 2025
+Cook Brandon,E045,2025-03-01,15 days (verbally told),120,120,120,120,New hire - full balance,Mar 2025
+Morgan Tiffany,E046,2025-03-15,Part-time prorated,60,60,60,60,Part-time gets prorated PTO,Mar 2025
+Bell Kenneth,E047,2025-04-01,15 days (verbally told),120,112,112,112,Matches,Nov 2025
+
+SUMMARY NOTES:
+- PTO policy changed informally from 10 days to 15 days around March 2023 when David Kim was hired
+- Original employees (pre-March 2023) were never officially moved to 15 days but some were told informally
+- Employee handbook still says 10 days
+- David Kowalski negotiated 20 days as part of his offer (not documented anywhere official)
+- At least 8 employees have discrepancies between my count and Gusto
+- At least 5 employees think they have more PTO than either system shows
+- Carryover policy is unclear - handbook says use it or lose it but we've never enforced
+- No one has ever been denied PTO request - we approve everything and figure it out later
+- Michigan ESTA (Earned Sick Time Act) requirements not clearly integrated into PTO
+
+PROBLEMS TO FIX:
+1. Reconcile all three data sources (my spreadsheet Gusto and employee expectations)
+2. Decide: Are early employees on 10 days or 15 days?
+3. Document David's 20-day agreement somewhere official
+4. Update handbook to reflect actual policy
+5. Clarify carryover policy
+6. Figure out ESTA compliance

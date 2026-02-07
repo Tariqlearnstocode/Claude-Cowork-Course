@@ -1,0 +1,39 @@
+Request ID,Date,Source,Requester,Feature Description,Priority (Requester),Priority (Assigned),Status,Notes
+FR-001,2024-06-15,Internal,Dana K,Enterprise SSO integration (SAML),CRITICAL,P1,Shipped,"Dana: ""We need this to compete with the big players""",
+FR-002,2024-06-18,Customer,Hair Haven Salon,Ability to block off lunch breaks easily,High,P3,Backlog,Customer is on Solo plan
+FR-003,2024-06-20,Internal,Jerome W,API access for enterprise clients,CRITICAL,P1,Shipped,Built over 3 weeks in July
+FR-004,2024-06-22,Customer,Mike's Auto Shop,Simple way to see today's appointments at a glance,Medium,P3,Backlog,User churned in November
+FR-005,2024-07-01,Internal,Dana K,Custom branding removal for enterprise,High,P1,Shipped,
+FR-006,2024-07-05,Customer,Yoga with Yolanda,Integration with ClassPass,High,P4,Not Started,Yolanda was a very engaged early user
+FR-007,2024-07-08,Sales Lead,Midwest Insurance Group,Multi-location support with rollup reporting,CRITICAL,P2,Partial,Enterprise prospect - never closed
+FR-008,2024-07-10,Customer,Freelance Consultant (anonymous),Faster mobile app - takes 8 seconds to load,CRITICAL,P2,In Progress,Multiple users reported this
+FR-009,2024-07-12,Internal,Pete N,Refactor calendar component - technical debt,High,P3,Backlog,Pete: "This is why sync keeps breaking"
+FR-010,2024-07-15,Customer,Bella's Nails,Add a waitlist feature for cancellations,Medium,P3,Not Started,Common request from salons
+FR-011,2024-07-18,Internal,Aaliyah F,Booking page templates for different industries,Medium,P3,Backlog,"Quick win for onboarding, keeps getting deprioritized"
+FR-012,2024-07-20,Sales Lead,Detroit Metro Health System,HIPAA compliance,CRITICAL,P1,Not Started,"Enterprise healthcare prospect. Jerome said ""6 months minimum"" to implement"
+FR-013,2024-07-22,Customer,CrossFit Downtown,Group class scheduling (not just 1:1),High,P2,Partial,Half-built - classes work but attendance tracking doesn't
+FR-014,2024-07-25,Customer,The Barber Collective,Staff-specific booking pages,Medium,P2,Shipped,Actually popular feature
+FR-015,2024-08-01,Internal,Dana K,Dedicated enterprise support portal,High,P2,Not Started,
+FR-016,2024-08-05,Customer,Life Coach Linda,Intake forms attached to booking,High,P3,Not Started,Multiple consultants requested this
+FR-017,2024-08-08,Internal,Marcus C,Improve onboarding flow - users dropping off,CRITICAL,P2,In Progress,Started but not finished before launch
+FR-018,2024-08-10,Customer,Three users (various),Payment upfront at booking time,High,P2,Shipped,Works but UI is confusing
+FR-019,2024-08-15,Sales Lead,Automotive Dealers Association,White-label solution for member businesses,CRITICAL,P1,Not Started,"Dana very excited about this. Jerome said ""not feasible with current architecture"""
+FR-020,2024-08-18,Customer,Pet Groomer Pro,Service add-ons (e.g. nail trim + bath),Medium,P3,Not Started,
+FR-021,2024-08-20,Internal,Jerome W,Rewrite notification system - current one is fragile,High,P2,Backlog,Related to SMS delivery issues
+FR-022,2024-08-25,Customer,Carmen's summary,Simple pricing display on booking page,High,P3,Backlog,Customers keep asking what things cost
+FR-023,2024-09-01,Sales Lead,Regional Bank (unnamed),On-premise deployment option,CRITICAL,P1,Not Feasible,Jerome: "We would have to rebuild everything"
+FR-024,2024-09-05,Customer,Multiple salon owners,Client notes that staff can see,Medium,P3,Backlog,"E.g., ""Sarah prefers the chair by the window""",
+FR-025,2024-09-10,Internal,Aaliyah F,Referral program for users,Medium,P4,Not Started,Low cost acquisition channel
+FR-026,2024-09-15,Customer,Massage Therapy Collective,Buffer time between appointments,CRITICAL,P3,Backlog,Therapists need cleanup time - very common request
+FR-027,2024-09-18,Internal,Dana K,AI-powered scheduling optimization,High,P2,Not Started,"Dana: ""Everyone has AI now, we need AI""",
+FR-028,2024-09-20,Sales Lead,Enterprise prospect (NDA),Audit logging for compliance,CRITICAL,P1,Partial,Built basic version rushed before launch
+FR-029,2024-09-22,Customer,Five users (various),Offline mode for mobile app,Medium,P3,Not Started,Service businesses often in low-connectivity areas
+FR-030,2024-09-25,Internal,Pete N,Fix calendar sync - fails 5% of the time,CRITICAL,P1,In Progress,Been "in progress" since August
+FR-031,2024-09-28,Customer,Hair Haven Salon,Automatic rebooking reminders (6 weeks later),High,P2,Not Started,"Salon owner: ""This would save me hours""",
+FR-032,2024-10-01,Customer,Event Space Rental Co,Resource scheduling (rooms not just people),High,P2,Not Started,Different use case than we designed for
+FR-033,2024-10-05,Internal,Marcus C,Simplify settings - too many options,High,P2,Backlog,Users get lost
+FR-034,2024-10-10,Customer,Tutoring Service,Recurring appointment improvements,Medium,P3,Backlog,Current implementation is clunky
+FR-035,2024-10-15,Launch Day,Multiple,THE APP IS CRASHING,CRITICAL,P1,Fixed,Launch day was rough
+FR-036,2024-10-20,Customer,Angry email,Where is my data?? Export doesn't work,CRITICAL,P1,Fixed,Export was broken for 3 days post-launch
+FR-037,2024-11-01,Internal,Dana K,Pivot to vertical SaaS for automotive industry,High,P1,Evaluation,Dana wants to leverage her dealership connections
+FR-038,2024-11-05,Customer,Carmen's summary,Just make it simpler please,High,?,Backlog,Paraphrasing many complaints

@@ -1,0 +1,18 @@
+Employee ID,Last Name,First Name,Department,Title,Start Date,Termination Date,Termination Type,Reason,Final Paycheck Issued,COBRA Notice Sent,Equipment Returned,Exit Interview,Notes,I-9 Status
+E-TERM-001,Liu,Jennifer,Engineering,Software Engineer,2023-06-15,2024-04-20,Voluntary,Accepted offer elsewhere,Yes,Unsure,Yes,No,Left for Google. No issues. Good performer we would rehire.,Should retain 1 year after term - check
+E-TERM-002,Washington,Derek,Sales,SDR,2023-11-01,2024-07-15,Involuntary,Performance,Yes,N/A,Yes,No,Performance issues. David made the call. Was hourly non-exempt so no COBRA (wasn't on benefits).,Should retain 1 year after term - check
+E-TERM-003,Pham,Michael,Customer Success,Support Specialist,2024-01-15,2024-08-30,Voluntary,Personal reasons,Yes,Yes (I think),Yes,No,Moved out of state for family. Good employee. Would rehire.,I9 should be on file
+E-TERM-004,Chen,Amy,Marketing,Marketing Coordinator,2024-06-01,2025-08-15,Voluntary,New opportunity,Yes,Yes (I sent it),Yes,No,Left for larger company. Was here just over a year. No issues.,Retain until Aug 2026
+E-SUMMER-01,Rodriguez,Maria,Engineering,Intern,2025-05-15,2025-08-15,End of term,Internship ended,Yes,N/A,Yes,No,Summer intern. Good performance. Extended return offer for full-time after graduation.,N/A (interns exempt?)
+E-SUMMER-02,Johnson,Tyler,Engineering,Intern,2025-05-15,2025-08-15,End of term,Internship ended,Yes,N/A,Yes,No,Summer intern. Good performance. Did not extend offer - he wanted to stay in school.,N/A
+E-SUMMER-03,Williams,Asia,Marketing,Intern,2025-05-20,2025-08-15,End of term,Internship ended,Yes,N/A,Yes,No,Summer intern. Marketing support. Extended return offer declined - taking different path.,N/A
+
+NOTES:
+- I-9 forms for terminated employees need to be retained for 3 years from hire OR 1 year from termination whichever is LATER
+- I have not been tracking this properly - need to audit
+- COBRA notice is required within 44 days of qualifying event - not sure all were sent properly
+- We have never done exit interviews despite handbook saying we do
+- Equipment return has been inconsistent - Aaliyah usually handles
+- No severance agreements - we don't have a policy
+- Derek Washington termination - should have documented more. No PIP paperwork on file. Could be problematic if he ever claims wrongful termination.
+- Amy Chen COBRA - I THINK I sent it but can't find confirmation. This is a problem if she didn't receive it.

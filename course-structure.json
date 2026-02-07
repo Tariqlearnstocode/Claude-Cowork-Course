@@ -1,0 +1,113 @@
+{
+  "course": {
+    "name": "Claude Cowork for Everyone",
+    "code": "ccw4e",
+    "version": "1.0.0"
+  },
+  "modules": [
+    {
+      "id": "1",
+      "name": "Claude Cowork Fundamentals",
+      "description": "Master the core features of Claude Cowork through the State Fair Cafe scenario",
+      "lessons": [
+        {
+          "id": "1.1",
+          "name": "Introduction",
+          "path": "lesson-modules/1.1-introduction/LESSON.md",
+          "description": "Welcome, course overview, and scenario introduction"
+        },
+        {
+          "id": "1.2",
+          "name": "File Exploration",
+          "path": "lesson-modules/1.2-file-exploration/LESSON.md",
+          "description": "Navigate file structures and understand your workspace"
+        },
+        {
+          "id": "1.3",
+          "name": "Working with Files",
+          "path": "lesson-modules/1.3-working-with-files/LESSON.md",
+          "description": "Extract, synthesize, template, analyze images, web research"
+        },
+        {
+          "id": "1.4",
+          "name": "Cowork Features",
+          "path": "lesson-modules/1.4-cowork-features/LESSON.md",
+          "description": "Todo lists, conversation tips, and productivity features"
+        },
+        {
+          "id": "1.5",
+          "name": "Agents",
+          "path": "lesson-modules/1.5-agents/LESSON.md",
+          "description": "Parallel processing with multiple Claude instances"
+        },
+        {
+          "id": "1.6",
+          "name": "Document Creation",
+          "path": "lesson-modules/1.6-document-creation/LESSON.md",
+          "description": "Create professional Word, Excel, and PowerPoint documents"
+        },
+        {
+          "id": "1.7",
+          "name": "Web & Research Tools",
+          "path": "lesson-modules/1.7-web-research/LESSON.md",
+          "description": "Web search, content fetching, and browser automation"
+        },
+        {
+          "id": "1.8",
+          "name": "Wrap-up",
+          "path": "lesson-modules/1.8-wrapup/LESSON.md",
+          "description": "Celebration, recap, and next steps"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Connectors, Plugins & Real Workflows",
+      "description": "Extend Claude with external tools, role-specific plugins, and build a real workflow for your job",
+      "lessons": [
+        {
+          "id": "2.1",
+          "name": "Connectors",
+          "path": "lesson-modules/2.1-connectors/LESSON.md",
+          "description": "Link Claude to Slack, Notion, Google Calendar, and more"
+        },
+        {
+          "id": "2.2",
+          "name": "Plugins",
+          "path": "lesson-modules/2.2-plugins/LESSON.md",
+          "description": "Install pre-built toolkits designed for your role"
+        },
+        {
+          "id": "2.3",
+          "name": "Skills & Commands",
+          "path": "lesson-modules/2.3-skills-and-commands/LESSON.md",
+          "description": "Trigger powerful multi-step actions with a slash command"
+        },
+        {
+          "id": "2.4",
+          "name": "Customizing Plugins",
+          "path": "lesson-modules/2.4-customizing-plugins/LESSON.md",
+          "description": "Teach plugins your terminology, processes, and brand voice"
+        },
+        {
+          "id": "2.5",
+          "name": "Your First Real Workflow",
+          "path": "lesson-modules/2.5-your-first-real-workflow/LESSON.md",
+          "description": "Build something for your actual job with connectors and plugins"
+        },
+        {
+          "id": "2.6",
+          "name": "Wrap-up",
+          "path": "lesson-modules/2.6-wrapup/LESSON.md",
+          "description": "Complete recap, celebration, and next steps"
+        }
+      ]
+    }
+  ],
+  "scenario": {
+    "company": "State Fair Cafe",
+    "role": "New manager inheriting a struggling loyalty program",
+    "goal": "Turn around the program in 3 months",
+    "solution": "Food Personality Quiz"
+  }
+}

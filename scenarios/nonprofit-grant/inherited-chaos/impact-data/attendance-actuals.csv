@@ -1,0 +1,26 @@
+Program,Month,Enrolled,Avg Daily Attendance,Unique Students,Completed Program,Notes
+After-School Academy,Sep 2025,52,24,52,N/A,Start of school year
+After-School Academy,Oct 2025,58,27,58,N/A,Added Thursday ceramics
+After-School Academy,Nov 2025,55,26,55,N/A,Thanksgiving break
+After-School Academy,Dec 2025,48,22,48,N/A,Winter break - 2 weeks closed
+After-School Academy,Jan 2026,51,28,51,N/A,Partial month
+Summer Intensive 2025,Jun-Aug 2025,54,38,54,43,6-week program
+Saturday Studios,Sep 2025,N/A,18,unknown,N/A,Drop-in - no registration
+Saturday Studios,Oct 2025,N/A,22,unknown,N/A,Drop-in - no registration
+Saturday Studios,Nov 2025,N/A,15,unknown,N/A,Drop-in - no registration
+Saturday Studios,Dec 2025,N/A,12,unknown,N/A,Drop-in - no registration
+Saturday Studios,Jan 2026,N/A,19,unknown,N/A,Drop-in - partial month
+Teen Leadership,FY26,15,12,15,ongoing,Annual program - in progress
+
+SUMMARY NOTES:
+- After-School unique enrollment FY26 (Sep-Jan): 89 unique students (some attend multiple months)
+- Summer 2025 retention rate: 79.6% (43 completed out of 54 enrolled)
+- Saturday Studios: Cannot calculate unique participants - no registration system
+- Total verifiable unique youth served FY26 to date: 143 (89 after-school + 54 summer - overlap TBD)
+- Previous year (FY25) total unique verified: 178
+
+DATA QUALITY ISSUES:
+- No unique ID system across programs
+- Saturday Studios only counted by head count at sign-in
+- Some students enrolled in multiple programs - may be double-counted
+- Parent contact info incomplete for ~30% of records

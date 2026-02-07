@@ -1,0 +1,62 @@
+Employee ID,Last Name,First Name,Department,Title,Start Date,Status,Employment Type,Exempt Status,Annual Salary,Hourly Rate,Manager,Work Location,State,Email,Phone,Emergency Contact,I-9 Complete,Background Check,Benefits Enrolled
+E001,Chen,Marcus,Executive,CEO,2022-01-15,Active,Full-time,Exempt,185000,,Self,Detroit,MI,marcus@woodwardventures.io,313-555-0101,Lisa Chen (spouse),Yes,N/A,Yes
+E002,Patel,Priya,Executive,CTO,2022-01-15,Active,Full-time,Exempt,175000,,Self,Detroit,MI,priya@woodwardventures.io,313-555-0102,Raj Patel (father),Yes,N/A,Yes
+E003,Washington,Aaliyah,Operations,Office Manager,2022-03-01,Active,Full-time,Non-exempt,,28.50,Marcus Chen,Detroit,MI,aaliyah@woodwardventures.io,313-555-0103,Darnell Washington (brother),Yes,Yes,Yes
+E004,Thompson,James,Engineering,Senior Software Engineer,2022-04-15,Active,Full-time,Exempt,145000,,Priya Patel,Detroit,MI,james.t@woodwardventures.io,313-555-0104,Maria Thompson,Yes,Yes,Yes
+E005,Nguyen,Kevin,Engineering,Software Engineer,2022-06-01,Active,Full-time,Exempt,125000,,Priya Patel,Hybrid,MI,kevin.n@woodwardventures.io,313-555-0105,,Yes,Yes,Yes
+E006,Robinson,Tanya,Engineering,Software Engineer,2022-08-15,Active,Full-time,Exempt,120000,,Priya Patel,Detroit,MI,tanya.r@woodwardventures.io,313-555-0106,Robert Robinson,Yes,Yes,Yes
+E007,Garcia,Miguel,Engineering,Backend Developer,2022-09-01,Active,Full-time,Exempt,118000,,Priya Patel,Remote,OH,miguel.g@woodwardventures.io,216-555-0201,Rosa Garcia,??,Yes,Yes
+E008,Williams,Damon,Customer Success,Customer Success Manager,2022-10-01,Active,Full-time,Exempt,72000,,Marcus Chen,Detroit,MI,damon.w@woodwardventures.io,313-555-0108,Jackie Williams,Yes,Yes,Yes
+E009,Anderson,Sarah,Sales,Account Executive,2022-11-15,Active,Full-time,Exempt,65000,,Marcus Chen,Detroit,MI,sarah.a@woodwardventures.io,313-555-0109,Tom Anderson,Yes,Yes,Yes
+E010,Kim,David,Engineering,DevOps Engineer,2023-01-09,Active,Full-time,Exempt,135000,,Priya Patel,Hybrid,MI,david.k@woodwardventures.io,313-555-0110,Susan Kim,Yes,Yes,Yes
+E011,Jackson,Brianna,Marketing,Marketing Manager,2023-02-15,Active,Full-time,Exempt,85000,,Marcus Chen,Detroit,MI,brianna.j@woodwardventures.io,313-555-0111,Loretta Jackson,No - NEEDS ATTENTION,Yes,Yes
+E012,Peterson,Michael,Sales,Account Executive,2023-03-01,Active,Full-time,Exempt,65000,,Marcus Chen,Detroit,MI,michael.p@woodwardventures.io,313-555-0112,,Yes,Yes,Yes
+E013,Martinez,Jessica,Customer Success,Customer Success Manager,2023-04-15,Active,Full-time,Exempt,68000,,Marcus Chen,Detroit,MI,jessica.m@woodwardventures.io,313-555-0113,Carlos Martinez,Partial - Section 2?,Yes,Yes
+E014,Brown,Terrence,Engineering,QA Engineer,2023-05-01,Active,Full-time,Exempt,95000,,Priya Patel,Detroit,MI,terrence.b@woodwardventures.io,313-555-0114,Sheila Brown,Yes,Yes,Yes
+E015,Davis,Cynthia,Customer Success,Support Specialist,2023-06-15,Active,Full-time,Non-exempt,,24.00,Marcus Chen,Detroit,MI,cynthia.d@woodwardventures.io,313-555-0115,Marcus Davis,Yes,Yes,Yes
+E016,Wilson,Andre,Engineering,Software Engineer,2023-07-01,Active,Full-time,Exempt,115000,,Priya Patel,Detroit,MI,andre.w@woodwardventures.io,313-555-0116,,Yes,Yes,Yes
+E017,Moore,Stephanie,Sales,SDR,2023-08-15,Active,Full-time,Non-exempt,,22.00,David Kowalski,Detroit,MI,stephanie.m@woodwardventures.io,313-555-0117,Linda Moore,Yes,Yes,Yes
+E018,Taylor,Brandon,Engineering,Software Engineer,2023-09-01,Active,Full-time,Exempt,112000,,Priya Patel,Hybrid,MI,brandon.t@woodwardventures.io,313-555-0118,Denise Taylor,Yes,Pending??,Yes
+E019,Harris,Nicole,Customer Success,Customer Success Manager,2023-10-01,Active,Full-time,Exempt,70000,,Marcus Chen,Remote,IL,nicole.h@woodwardventures.io,312-555-0301,William Harris,Yes,Yes,Yes
+E020,Clark,Jason,Engineering,Senior Software Engineer,2023-11-15,Active,Full-time,Exempt,140000,,Priya Patel,Detroit,MI,jason.c@woodwardventures.io,313-555-0120,Amy Clark,Yes,Yes,Yes
+E021,Lewis,Keisha,Marketing,Content Manager,2024-01-02,Active,Full-time,Exempt,75000,,Brianna Jackson,Detroit,MI,keisha.l@woodwardventures.io,313-555-0121,Denise Lewis,Yes,Yes,Yes
+E022,Walker,Ryan,Engineering,Software Engineer,2024-01-15,Active,Full-time,Exempt,110000,,Priya Patel,Detroit,MI,ryan.w@woodwardventures.io,313-555-0122,,No,Yes,Yes
+E023,Hall,Brittany,Customer Success,Customer Success Manager,2024-02-01,Active,Full-time,Exempt,68000,,Marcus Chen,Detroit,MI,brittany.h@woodwardventures.io,313-555-0123,Sharon Hall,Yes,Yes,Yes
+E024,Young,Christopher,Sales,Account Executive,2024-02-15,Active,Full-time,Exempt,65000,,David Kowalski,Detroit,MI,chris.y@woodwardventures.io,313-555-0124,Karen Young,Partial,Yes,Yes
+E025,Kowalski,David,Sales,VP of Sales,2024-03-01,Active,Full-time,Exempt,165000,,Marcus Chen,Detroit,MI,david@woodwardventures.io,313-555-0125,Patricia Kowalski,Yes,Yes,Yes
+E026,King,Jasmine,Engineering,Software Engineer,2024-03-15,Active,Full-time,Exempt,108000,,Priya Patel,Remote,OH,jasmine.k@woodwardventures.io,216-555-0202,Robert King,??,Yes,Yes
+E027,Wright,Tyler,Engineering,Frontend Developer,2024-04-01,Active,Full-time,Exempt,105000,,Priya Patel,Detroit,MI,tyler.w@woodwardventures.io,313-555-0127,,Yes,Yes,Yes
+E028,Scott,Amanda,Sales,Account Executive,2024-05-01,Active,Full-time,Exempt,65000,,David Kowalski,Hybrid,MI,amanda.s@woodwardventures.io,313-555-0128,John Scott,Yes,Yes,Yes
+E029,Green,Marcus,Engineering,Junior Developer,2024-05-15,Active,Full-time,Exempt,85000,,Priya Patel,Detroit,MI,marcus.g@woodwardventures.io,313-555-0129,Diana Green,Yes,Yes,Yes
+E030,Adams,Destiny,Customer Success,Customer Success Manager,2024-06-01,Active,Full-time,Exempt,68000,,Marcus Chen,Detroit,MI,destiny.a@woodwardventures.io,313-555-0130,Robert Adams,Yes,Incomplete - see notes,Yes
+E031,Baker,Derek,Engineering,Software Engineer,2024-07-01,Active,Full-time,Exempt,112000,,Priya Patel,Hybrid,MI,derek.b@woodwardventures.io,313-555-0131,Michelle Baker,Yes,Yes,Yes
+E032,Nelson,Vanessa,Marketing,Demand Gen Specialist,2024-08-01,Active,Full-time,Exempt,72000,,Brianna Jackson,Detroit,MI,vanessa.n@woodwardventures.io,313-555-0132,,Yes,Yes,Yes
+E033,Mitchell,Aaron,Engineering,Backend Developer,2024-08-15,Active,Full-time,Exempt,118000,,Priya Patel,Detroit,MI,aaron.m@woodwardventures.io,313-555-0133,Lisa Mitchell,Yes,Yes,Yes
+E034,Carter,Lauren,Customer Success,Support Specialist,2024-09-01,Active,Full-time,Non-exempt,,24.00,Marcus Chen,Detroit,MI,lauren.c@woodwardventures.io,313-555-0134,David Carter,Yes,Yes,Yes
+E035,Phillips,Jerome,Sales,SDR,2024-09-15,Active,Full-time,Non-exempt,,22.00,David Kowalski,Detroit,MI,jerome.p@woodwardventures.io,313-555-0135,Brenda Phillips,Yes,Yes,Yes
+E036,Campbell,Mia,Engineering,QA Engineer,2024-10-01,Active,Full-time,Exempt,92000,,Priya Patel,Detroit,MI,mia.c@woodwardventures.io,313-555-0136,Linda Campbell,Yes,Yes,Yes
+E037,Roberts,Justin,Engineering,Software Engineer,2024-10-15,Active,Full-time,Exempt,108000,,Priya Patel,Hybrid,MI,justin.r@woodwardventures.io,313-555-0137,,Yes,Yes,Yes
+E038,Turner,Alexis,Customer Success,Customer Success Manager,2024-11-01,Active,Full-time,Exempt,68000,,Marcus Chen,Remote,TX,alexis.t@woodwardventures.io,512-555-0401,Brenda Turner,Yes,Yes,??
+E039,Evans,Marcus,Sales,Account Executive,2024-11-15,Active,Full-time,Exempt,65000,,David Kowalski,Detroit,MI,marcus.e@woodwardventures.io,313-555-0139,Patricia Evans,Yes,Yes,Yes
+E040,Collins,Natasha,Finance,Staff Accountant,2024-12-01,Active,Full-time,Exempt,75000,,Marcus Chen,Detroit,MI,natasha.c@woodwardventures.io,313-555-0140,James Collins,Yes,Yes,Yes
+E041,Stewart,Jordan,Engineering,DevOps Engineer,2025-01-06,Active,Full-time,Exempt,125000,,Priya Patel,Detroit,MI,jordan.s@woodwardventures.io,313-555-0141,Maria Stewart,Yes,Pending,Yes
+E042,Sanchez,Isabella,Customer Success,Customer Success Manager,2025-01-15,Active,Full-time,Exempt,68000,,Marcus Chen,Detroit,MI,isabella.s@woodwardventures.io,313-555-0142,Carlos Sanchez,Yes,Yes,Yes
+E043,Morris,Xavier,Engineering,Software Engineer,2025-02-01,Active,Full-time,Exempt,110000,,Priya Patel,Detroit,MI,xavier.m@woodwardventures.io,313-555-0143,,Yes,Yes,Yes
+E044,Reed,Aaliyah,Marketing,Marketing Ops,2025-02-15,Active,Full-time,Exempt,68000,,Brianna Jackson,Hybrid,MI,aaliyah.r@woodwardventures.io,313-555-0144,Denise Reed,Yes,Yes,Yes
+E045,Cook,Brandon,Engineering,Junior Developer,2025-03-01,Active,Full-time,Exempt,82000,,Priya Patel,Detroit,MI,brandon.c@woodwardventures.io,313-555-0145,Sandra Cook,Yes,Yes,Yes
+E046,Morgan,Tiffany,Finance,AP/AR Clerk,2025-03-15,Active,Part-time,Non-exempt,,21.00,Natasha Collins,Detroit,MI,tiffany.m@woodwardventures.io,313-555-0146,Robert Morgan,Yes,Yes,Declined
+E047,Bell,Kenneth,Sales,Account Executive,2025-04-01,Active,Full-time,Exempt,65000,,David Kowalski,Detroit,MI,kenneth.b@woodwardventures.io,313-555-0147,Donna Bell,Yes,Yes,Yes
+E048,Murphy,Ostrowski,HR,HR Manager,2024-03-15,TERMINATED,Full-time,Exempt,78000,,Marcus Chen,Detroit,MI,kelly.o@woodwardventures.io,313-555-0148,Thomas Ostrowski,Yes,Yes,Yes
+,Rivera,Jordan,Operations,HR Manager,2026-01-27,Active,Full-time,Exempt,82000,,Marcus Chen,Detroit,MI,jordan@woodwardventures.io,313-555-0149,Maria Rivera,PENDING,PENDING,PENDING
+
+NOTES:
+- Employee ID E048 should be Kelly Ostrowski not Murphy - data entry error I never fixed
+- Several I-9 fields marked "??" need verification - I didn't have time to confirm
+- "Partial" means Section 1 is complete but Section 2 has issues or is incomplete
+- Background check "Pending" means we sent it but never got results or followed up
+- Benefits "??" for Alexis Turner - she enrolled but I'm not sure it processed correctly
+- Ohio and Illinois employees - I THINK we're compliant but honestly not sure
+- Texas employee (Alexis) - joined recently, I definitely didn't check state requirements
+- MULTIPLE people have wrong/outdated emergency contacts - asked employees to update but most didn't respond
+- Salary data SHOULD match Gusto but I found discrepancies before - use Gusto as source of truth
+- This spreadsheet was last fully reconciled with Gusto in September 2024
