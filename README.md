@@ -52,7 +52,7 @@ Connect Claude to your real tools and build workflows for your actual job:
 
 ## Getting Started
 
-1. **Download** this course folder to your computer
+1. **Download** the course files from [freecoworkcourse.com](https://freecoworkcourse.com)
 2. **Open** the Claude desktop app ([download here](https://claude.ai/download))
 3. **Select** this folder when Claude asks
 4. **Say** "start lesson 1.1"
@@ -93,12 +93,6 @@ scenarios/
 ├── freelancer-consultant/     # Corktown Creative
 └── hr-people-ops/             # Woodward Ventures
 ```
-
-## Requirements
-
-- Claude Desktop App ([download](https://claude.ai/download))
-- Claude Pro ($20/mo) or Max subscription
-- 3-5 hours total across both modules (can be split across sessions)
 
 ## Questions or Feedback?
 
