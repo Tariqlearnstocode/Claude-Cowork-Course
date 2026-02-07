@@ -1,8 +1,8 @@
 # Lesson 1.1: Introduction
 
-**Welcome to Claude Cowork for Everyone!**
+**Welcome to the Free Claude Cowork Course!**
 
-You're here, in Claude Cowork, ready to learn. That's already a win.
+You're here, you showed up, and that's already a win.
 
 Before we dive into the course, I'd love to get to know you a bit so I can personalize your experience.
 
@@ -127,7 +127,7 @@ Great choice! I'll set up the **[CHOSEN SCENARIO]** for you.
 
 You don't need to be technical for this course! Think about it like chatting with ChatGPT - we're just talking! The difference is that Cowork runs on your computer and can actually DO things for you - read your files, create documents, search the web, and more.
 
-You've been hearing about "10x AI tools" for years - now it's actually true.
+Everyone's talking about AI, but most people still haven't figured out how to make it actually improve their work, their business, or their life. That changes today.
 
 STOP: Ready to learn how this works?
 
