@@ -8,7 +8,7 @@
     {
       "id": "1",
       "name": "Claude Cowork Fundamentals",
-      "description": "Master the core features of Claude Cowork through the State Fair Cafe scenario",
+      "description": "Master the core features of Claude Cowork through a hands-on scenario of your choice",
       "lessons": [
         {
           "id": "1.1",
@@ -104,10 +104,15 @@
       ]
     }
   ],
-  "scenario": {
-    "company": "State Fair Cafe",
-    "role": "New manager inheriting a struggling loyalty program",
-    "goal": "Turn around the program in 3 months",
-    "solution": "Food Personality Quiz"
-  }
+  "scenarios": [
+    "event-planning",
+    "bookstore-turnaround",
+    "product-launch",
+    "restaurant-rebrand",
+    "nonprofit-grant",
+    "loyalty-program",
+    "real-estate",
+    "freelancer-consultant",
+    "hr-people-ops"
+  ]
 }
