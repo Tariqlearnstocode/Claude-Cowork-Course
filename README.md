@@ -54,8 +54,9 @@ Connect Claude to your real tools and build workflows for your actual job:
 
 1. **Download** the course files from [freecoworkcourse.com](https://freecoworkcourse.com)
 2. **Open** the Claude desktop app ([download here](https://claude.ai/download))
-3. **Select** this folder when Claude asks
-4. **Say** "start lesson 1.1"
+3. **Go to** the Cowork tab (look for the Cowork icon in the left sidebar)
+4. **Select** this folder when Claude asks
+5. **Say** "start lesson 1.1"
 
 Claude will ask your name, what you do for work, and recommend a scenario. Then you're off!
 
