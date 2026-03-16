@@ -1,4 +1,3 @@
-<!-- WHITE-LABEL: Replace course name with creator's course name (from creator.config) -->
 # Free Claude Cowork Course
 
 **Learn Claude Cowork by Doing** - The only interactive course that teaches you Claude Cowork inside Claude Cowork itself.
@@ -52,7 +51,7 @@ Connect Claude to your real tools and build workflows for your actual job:
 
 ## Getting Started
 
-1. **Download** the course files from [freecoworkcourse.com](https://freecoworkcourse.com)
+1. **Download** the course files from [claudecoworkcourse.com](https://claudecoworkcourse.com)
 2. **Unzip** by double-clicking the downloaded file
 3. **Open** the Claude desktop app ([download here](https://claude.ai/download))
 4. **Go to** the Cowork tab (look for the Cowork icon in the left sidebar)
@@ -98,7 +97,6 @@ scenarios/
 
 ## Questions or Feedback?
 
-<!-- WHITE-LABEL: Replace with creator's contact info or remove entirely -->
 Connect with me on [LinkedIn](https://www.linkedin.com/in/clarencetarchibald/) or visit [claudecoworkcourse.com](https://claudecoworkcourse.com).
 
 ---
