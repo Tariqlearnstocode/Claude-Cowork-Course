@@ -1,10 +1,10 @@
-# Lesson 1.6: Document Creation
+# Lesson 1.7: Document Creation
 
 <!-- CLAUDE INSTRUCTIONS:
 Reference the student's journey so far. By this point in the course, the student has:
-- Explored the inherited chaos and organized it (Lessons 1.1-1.3)
-- Conducted research and discovered a core problem (Lesson 1.4)
-- Identified a promising solution idea / "solution seed" (Lesson 1.5)
+- Explored the inherited chaos and organized it (Lessons 1.1-1.4)
+- Conducted research and discovered a core problem (Lesson 1.5)
+- Identified a promising solution idea / "solution seed" (Lesson 1.6)
 
 Open with a brief recap that acknowledges these discoveries WITHOUT naming specific scenario details. For example:
 "We've done the research. We've identified the core problem. We have a promising solution idea."
@@ -47,12 +47,12 @@ STOP: Ask me to create a Word document proposing the solution you identified in 
 USER: Types request for Word document
 
 <!-- CLAUDE INSTRUCTIONS:
-Create a proposal document tailored to the student's scenario. Use the core discovery (the problem identified through research) and the solution seed (the idea developed in Lesson 1.5) to populate the document.
+Create a proposal document tailored to the student's scenario. Use the core discovery (the problem identified through research) and the solution seed (the idea developed in Lesson 1.6) to populate the document.
 
 The proposal should include:
 - Executive summary
 - Problem statement (drawn from the research findings in previous lessons)
-- Proposed solution (the solution idea from Lesson 1.5)
+- Proposed solution (the solution idea from Lesson 1.6)
 - Expected outcomes
 - Next steps
 
@@ -63,7 +63,7 @@ ACTION: Use the docx skill to create a professional proposal document:
 - Title: A clear proposal title referencing the solution and the organization
 - Executive summary
 - Problem statement (from research findings)
-- Proposed solution (the solution concept from Lesson 1.5)
+- Proposed solution (the solution concept from Lesson 1.6)
 - Expected outcomes
 - Next steps
 
@@ -88,7 +88,7 @@ USER: Types request for Excel spreadsheet
 <!-- CLAUDE INSTRUCTIONS:
 Create a spreadsheet using data from the student's scenario. Pull current metrics from the scenario's data/context files (e.g., sales figures, budget numbers, engagement rates, attendance data, response rates - whatever is relevant to this scenario).
 
-Then project improvements based on the proposed solution from Lesson 1.5. The spreadsheet should include:
+Then project improvements based on the proposed solution from Lesson 1.6. The spreadsheet should include:
 - Current state metrics (real numbers from the scenario files)
 - Projected metrics with the solution implemented
 - Percentage improvements / changes
@@ -260,9 +260,9 @@ USER: Yes
 - Reviewing your resume? Get feedback from a "recruiter," "hiring manager," and "career coach"
 - Pressure-testing a business idea? Ask for "skeptical investor," "enthusiastic customer," and "operational realist" perspectives
 
-**Next up:** In 1.7, you'll learn about web research and browser tools - searching the web, fetching content from pages, and even automating browser tasks.
+**Next up:** In 1.8, you'll learn about web research and browser tools - searching the web, fetching content from pages, and even automating browser tasks.
 
-STOP: Ready for 1.7?
+STOP: Ready for 1.8?
 
 USER: Yes / let's go
 

@@ -1,4 +1,4 @@
-# Lesson 1.3: Working with Files
+# Lesson 1.4: Working with Files
 
 Now that you can see your files, let's actually work with them.
 
@@ -247,9 +247,9 @@ USER: Yes
 - Screenshot a competitor's pricing page - get instant analysis of their positioning
 - Research best practices for anything: hiring, onboarding, presentation design, whatever you're working on
 
-**Next up:** In 1.4, you'll learn about Cowork's built-in features - the todo list, conversation tips, and how to get the most out of your sessions.
+**Next up:** In 1.5, you'll learn about Cowork's built-in features - the todo list, conversation tips, and how to get the most out of your sessions.
 
-STOP: Ready for 1.4?
+STOP: Ready for 1.5?
 
 USER: Yes / let's go
 
@@ -259,12 +259,12 @@ USER: Yes / let's go
 
 - **File creation**: Actually create the output files (action-items.md, feedback-synthesis.md, leadership-update.md) in the organized/ folder
 - **Scenario awareness**: Always reference files from the student's chosen scenario folder in `scenarios/[scenario-name]/inherited-chaos/`
-- **Seed idea**: Make sure to highlight the buried promising idea when extracting from the handoff notes - this seeds the solution that will be revealed in lesson 1.5
+- **Seed idea**: Make sure to highlight the buried promising idea when extracting from the handoff notes - this seeds the solution that will be revealed in lesson 1.6
 - **Recurring theme**: Identify and emphasize the recurring theme across the feedback/communication files - this is a key discovery for the narrative arc
 - **Web search**: Use real web search capabilities to find actual best practices
 - **Image analysis**: For loyalty-program, analyze the actual flyer image. For all other scenarios, pivot to having the student provide an image or use a web image
 - **Template**: The leadership update template is at the ROOT level (`templates/leadership-update-template.md`), NOT inside any scenario folder
-- **Narrative continuity**: The discoveries across all 5 scenarios should build on each other, creating a mounting sense that something fundamental needs to change. This sets up lesson 1.5 where agents will reveal the core discovery.
+- **Narrative continuity**: The discoveries across all 5 scenarios should build on each other, creating a mounting sense that something fundamental needs to change. This sets up lesson 1.6 where agents will reveal the core discovery.
 
 ## Success Criteria
 

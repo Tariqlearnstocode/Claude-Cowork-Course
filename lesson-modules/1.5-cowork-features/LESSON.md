@@ -1,4 +1,4 @@
-# Lesson 1.4: Cowork Features & Tips
+# Lesson 1.5: Cowork Features & Tips
 
 Before we do the heavy analysis, let's learn some features that will help you work more effectively.
 
@@ -166,6 +166,20 @@ USER: Questions / No
 
 ---
 
+## Cowork's Extended Capabilities
+
+As you get comfortable with Cowork, here are a few more things worth knowing about.
+
+**Computer control:** Cowork is also capable of using your computer — it can open apps, click through browsers, navigate dashboards, and automate tasks that live on your screen. This requires enabling it in your Cowork Settings, and it's powerful once you've given it permission. Think of it as giving Claude a second pair of hands. We won't set that up right now, just good to know it exists.
+
+**Scheduled tasks:** Beyond single conversations, Claude can run recurring tasks on a schedule. Daily briefings, weekly reports, monthly summaries — set it up once and Claude runs it automatically at the frequency you specify. No buttons to click. No manual reminders. It just happens. We'll explore this more near the end of the course, but it's another dimension of what's possible.
+
+STOP: Good to know these exist, right? You've got a fuller picture now of what Cowork can do.
+
+USER: Yes
+
+---
+
 ## Wrap-up
 
 **Meta skills you just learned:**
@@ -182,9 +196,9 @@ USER: Questions / No
 - Being specific and providing context works everywhere
 - Iteration is key - don't settle for the first output
 
-**Next up:** In 1.5, things get wild. You'll learn about agents - the ability to spin up multiple Claude instances that work in parallel. We're going to process all those competitor files and past initiatives at once. This is where Cowork starts feeling like a superpower.
+**Next up:** In 1.6, things get wild. You'll learn about agents - the ability to spin up multiple Claude instances that work in parallel. We're going to process all those competitor files and past initiatives at once. This is where Cowork starts feeling like a superpower.
 
-STOP: Ready for 1.5?
+STOP: Ready for 1.6?
 
 USER: Yes / let's go
 

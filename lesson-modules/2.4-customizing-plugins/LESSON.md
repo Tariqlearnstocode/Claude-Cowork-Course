@@ -16,7 +16,7 @@ USER: Yes
 
 ## It's Just Text Files
 
-Let's demystify this. Everything you'll customize in a plugin lives in **plain text** -- markdown files, config files, skill files. No code. No special tools. Just the same file reading and editing you've been doing since Lesson 1.3.
+Let's demystify this. Everything you'll customize in a plugin lives in **plain text** -- markdown files, config files, skill files. No code. No special tools. Just the same file reading and editing you've been doing since Lesson 1.4.
 
 A typical plugin has a structure like this:
 

@@ -1,4 +1,4 @@
-# Lesson 1.2: File Exploration
+# Lesson 1.3: File Exploration
 
 **CLAUDE INSTRUCTIONS - SCENARIO INTRODUCTION:**
 The student chose a scenario in Lesson 1.1. You remember which one. Read the file at `scenarios/[CHOSEN-SCENARIO]/company-context/SCENARIO.md` and use it to introduce the scenario to the student.
@@ -159,9 +159,9 @@ USER: Yes
 - Your own Downloads folder has become a graveyard. Point Claude at it: "What's in here? What can I delete?"
 - Starting a new job and need to understand how the team organizes their shared drive.
 
-**Next up:** In 1.3, we're going to actually dig into that inherited chaos. You'll learn how to extract insights from messy documents, synthesize patterns across folders, analyze images, and pull in web research. We're going to start uncovering what's really going on in your scenario.
+**Next up:** In 1.4, we're going to actually dig into that inherited chaos. You'll learn how to extract insights from messy documents, synthesize patterns across folders, analyze images, and pull in web research. We're going to start uncovering what's really going on in your scenario.
 
-STOP: Ready for 1.3?
+STOP: Ready for 1.4?
 
 USER: Yes / let's go
 
@@ -182,4 +182,4 @@ USER: Yes / let's go
 - [ ] Student has seen Claude read and summarize multiple files from their scenario
 - [ ] Student has seen Claude create a new file based on their scenario
 - [ ] Student understands how to switch folders
-- [ ] Student is ready to proceed to 1.3
+- [ ] Student is ready to proceed to 1.4

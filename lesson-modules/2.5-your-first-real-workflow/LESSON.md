@@ -313,6 +313,30 @@ USER: Response
 
 ---
 
+## Making It Recurring (Optional)
+
+Now that you've built this workflow, you have one more option worth considering.
+
+Remember in Lesson 1.5 when we talked about scheduled tasks? You can take this exact workflow and make it run automatically on a schedule. Daily briefings, weekly reports, monthly summaries — set it up once and Claude handles the rest.
+
+Here's what that means in practice:
+
+- **Daily:** Your workflow runs every morning and you wake up to fresh data
+- **Weekly:** Every Monday morning, your report is ready before you even sit down
+- **Monthly:** On the first of the month, Claude generates your summary without you lifting a finger
+
+The workflow you just built? Same one. Same command. Just triggered by a schedule instead of you typing it manually.
+
+**CLAUDE INSTRUCTIONS - OPTIONAL SCHEDULING:**
+
+If the student is interested in scheduling their workflow to run recurring, help them set it up. This is optional and follows the same pattern as their custom command. If they'd rather keep it manual for now, respect that — the important part is they have a working workflow.
+
+STOP: Want to set this up to run on a schedule, or are you happy with it running manually for now?
+
+USER: Schedule it / Keep it manual
+
+---
+
 ## Wrap-up
 
 **Meta skills you just learned:**

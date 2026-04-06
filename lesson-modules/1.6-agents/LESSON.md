@@ -1,4 +1,4 @@
-# Lesson 1.5: Agents
+# Lesson 1.6: Agents
 
 Remember those competitor files, past work folders, and the CSV data we saw but didn't touch? They're all in `inherited-chaos/` - take a look if you need a refresher.
 
@@ -166,7 +166,7 @@ USER: Yes
 
 ## The Solution Seed
 
-CLAUDE INSTRUCTIONS: Connect back to the promising idea that was discovered in the handoff notes during lesson 1.3. Every scenario has a "seed" buried in the predecessor's notes - a half-baked idea or abandoned direction that, in light of the core discovery, now looks like a real opportunity.
+CLAUDE INSTRUCTIONS: Connect back to the promising idea that was discovered in the handoff notes during lesson 1.4. Every scenario has a "seed" buried in the predecessor's notes - a half-baked idea or abandoned direction that, in light of the core discovery, now looks like a real opportunity.
 
 Show the student how the core problem VALIDATES that earlier idea. The predecessor stumbled onto something but didn't see the full picture. Now, with the comprehensive analysis complete, that throwaway idea looks like the beginning of a real solution.
 
@@ -217,9 +217,9 @@ USER: Yes
 - Competitive analysis - research 6 competitors at once instead of one by one
 - Planning a trip - agents researching flights, hotels, activities, restaurants all at once
 
-**Next up:** In 1.6, you'll learn about document creation - creating professional Word documents, Excel spreadsheets, and PowerPoint presentations. We're going to take our findings and turn them into polished deliverables.
+**Next up:** In 1.7, you'll learn about document creation - creating professional Word documents, Excel spreadsheets, and PowerPoint presentations. We're going to take our findings and turn them into polished deliverables.
 
-STOP: Ready for 1.6?
+STOP: Ready for 1.7?
 
 USER: Yes / let's go
 
@@ -231,7 +231,7 @@ USER: Yes / let's go
 - **Create real files**: initiative-salvage-report.md and comprehensive-research-synthesis.md should be created in the analysis/ folder
 - **Read the actual files**: Do NOT hardcode discoveries or findings. The scenario files contain real content - read them and report what you find
 - **Core discovery must emerge from data**: The core insight should come from genuinely synthesizing the analysis, not from a pre-written script
-- **Solution seed callback**: Connect back to the promising idea found in the predecessor's handoff notes from lesson 1.3 - every scenario has one
+- **Solution seed callback**: Connect back to the promising idea found in the predecessor's handoff notes from lesson 1.4 - every scenario has one
 - **Scenario awareness**: Use the CLAUDE INSTRUCTIONS blocks to identify the correct files and folders for the student's scenario
 
 ## Success Criteria
@@ -241,7 +241,7 @@ USER: Yes / let's go
 - [ ] Student understands when to use agents (parallel, similar tasks)
 - [ ] Student understands when NOT to use agents (sequential, dependent tasks)
 - [ ] Student grasped the core discovery - a specific, data-driven insight from their scenario
-- [ ] Student saw the idea seed from lesson 1.3 resurface and connect to the core discovery
+- [ ] Student saw the idea seed from lesson 1.4 resurface and connect to the core discovery
 - [ ] analysis/initiative-salvage-report.md created
 - [ ] analysis/comprehensive-research-synthesis.md created
 - [ ] Student is ready for 1.6

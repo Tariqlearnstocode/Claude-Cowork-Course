@@ -30,7 +30,7 @@ USER: Yes / makes sense
 
 ## The Official Plugins
 
-Anthropic released 11 open-source plugins you can install right now. Here's the full list:
+Anthropic released 10+ department-specific plugins you can install right now. Here's the full list:
 
 - **Productivity** -- task management, scheduling, organization
 - **Enterprise Search** -- finding information across company tools
@@ -41,6 +41,9 @@ Anthropic released 11 open-source plugins you can install right now. Here's the 
 - **Marketing** -- campaigns, content strategy, analytics
 - **Customer Support** -- ticket handling, knowledge bases, escalation
 - **Product Management** -- roadmaps, specs, prioritization
+- **HR** -- recruiting, onboarding, performance management
+- **Design** -- design feedback, prototyping, asset management
+- **Engineering** -- code review, deployment, monitoring
 - **Biology Research** -- literature review, experiment tracking
 - **Plugin Management** -- managing your other plugins
 
@@ -56,9 +59,15 @@ USER: [Names one or two plugins]
 
 Installing a plugin takes about 30 seconds. Seriously.
 
-You can browse and install plugins right from Claude's settings or by clicking the **+** button next to the chat box. Find the one you want and click install. That's it.
+You can browse and install plugins in a couple of ways:
 
-No terminal. No build steps. No code. Just a few clicks and Claude gains a whole new skill set.
+**Via the + button:** Click the **+** button next to the chat box. You'll see plugins listed alongside connectors.
+
+**Via Customize:** Go to the **Customize** section in Cowork (usually in your settings or sidebar). This is your central hub for skills, plugins, and connectors — everything that extends Claude lives here.
+
+Find the one you want and click install. That's it. No terminal. No build steps. No code. Just a few clicks and Claude gains a whole new skill set.
+
+One note: If you're on a Team or Enterprise plan, you may have access to a private plugin marketplace tailored to your organization. Check the Customize section to see if your team has custom plugins available.
 
 STOP: Ready to pick the right plugin for YOUR scenario?
 

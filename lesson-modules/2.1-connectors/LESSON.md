@@ -76,6 +76,7 @@ Here are the most common connectors people use with Claude:
 | **Notion** | Read and update pages, query databases |
 | **Google Calendar** | Check schedule, create events, find free time |
 | **Google Drive** | Access docs, sheets, slides stored in Drive |
+| **Google Gmail** | Read emails, search inbox, draft messages |
 | **Asana** | View and create tasks, check project status |
 | **Linear** | Manage issues, track sprints |
 | **Jira** | View tickets, update status, add comments |
@@ -83,6 +84,12 @@ Here are the most common connectors people use with Claude:
 | **Microsoft 365** | Access Outlook, Teams, OneDrive, SharePoint |
 | **GitHub** | View repos, issues, pull requests |
 | **Figma** | View and comment on designs |
+| **DocuSign** | Access signed documents, templates |
+| **Apollo** | Prospecting data, contact and company info |
+| **Clay** | Enriched contact and company data |
+| **Outreach** | Sales engagement and sequences |
+| **WordPress** | Manage posts, pages, and site content |
+| **LegalZoom** | Business document templates and status |
 
 You don't need all of these. You just need the ones YOU use.
 
@@ -128,13 +135,17 @@ USER: Yes
 
 Here's how to set up a connector. It takes about 30 seconds.
 
-**Step 1:** Look at the bottom of your chat window. You'll see a **+** button next to where you type messages. Click it.
+You can find connectors in a couple of places:
 
-**Step 2:** You'll see a list of available connectors. Find the one you want to connect.
+**Via the + button:** Look at the bottom of your chat window. You'll see a **+** button next to where you type messages. Click it to browse available connectors.
 
-**Step 3:** Click on it and follow the authorization steps. This usually means signing into the tool (like Slack or Google) and giving Claude permission to access it.
+**Via Customize:** You can also access connectors through the **Customize** section in Cowork (usually in your settings or sidebar). This is where you'll find skills, plugins, and connectors all grouped in one place — it's your control center for everything that extends Claude.
 
-**Step 4:** That's it. Once authorized, Claude can talk to that tool.
+**Once you've found the connector you want:**
+
+**Step 1:** Click on it and follow the authorization steps. This usually means signing into the tool (like Slack or Google) and giving Claude permission to access it.
+
+**Step 2:** That's it. Once authorized, Claude can talk to that tool.
 
 No terminal. No code. No installation. Just click, authorize, done.
 

@@ -208,6 +208,8 @@ USER: Questions / No, let's go
 <!-- WHITE-LABEL: Replace with creator's contact info or remove entirely -->
 If you have questions or feedback, connect with me on [LinkedIn](https://www.linkedin.com/in/clarencetarchibald/) or visit [claudecoworkcourse.com](https://claudecoworkcourse.com).
 
+If you ever want help setting up AI workflows for your specific work, you can book a free 15-minute discovery call: [cal.com/ctaiv/15min](https://cal.com/ctaiv/15min)
+
 STOP: Ready to begin?
 
 USER: Yes

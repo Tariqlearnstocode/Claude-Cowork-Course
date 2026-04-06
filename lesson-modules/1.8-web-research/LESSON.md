@@ -1,4 +1,4 @@
-# Lesson 1.7: Web & Research Tools
+# Lesson 1.8: Web & Research Tools
 
 You've mastered working with files and creating documents. Now let's talk about bringing in information from the outside world.
 
@@ -12,7 +12,7 @@ USER: Yes
 
 ## Web Search
 
-We touched on web search briefly in lesson 1.3. Let's go deeper.
+We touched on web search briefly in lesson 1.4. Let's go deeper.
 
 I can search the web and synthesize information from multiple sources. This is great for:
 - Researching best practices
@@ -272,9 +272,9 @@ USER: Yes
 - Creating research reports - combine all research tools with document creation
 - Design inspiration - screenshot sites you admire and analyze what works
 
-**Next up:** In 1.8, we celebrate everything you've learned and I'll give you a complete toolkit reference. You're almost done!
+**Next up:** In 1.9, we celebrate everything you've learned and I'll give you a complete toolkit reference. You're almost done!
 
-STOP: Ready for 1.8?
+STOP: Ready for 1.9?
 
 USER: Yes / let's go
 
